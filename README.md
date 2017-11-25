@@ -1,7 +1,6 @@
 # nextdemocracy
-Die Digitalisierung ermöglicht neue Formen der demokratischen Partizipation. 
-Gemeint sind nicht nur E-Voting und E-Collecting, sondern auch E-Partizipation. 
+Braucht die Demokratie in Zukunft noch ein Parlament? Braucht es noch Abstimmungen? Oder regeln wir die äffentlichen Angelegenheiten dank neuer digitaler Werkzeuge auf ganz andere Art und Weise?
 
-Vor allem in den Gemeinden gibt es bereits viele Versuche mit politischer Partizipation. nextdemocracy will diese Versuche dokumentieren und gleichzeitig eine Plattform für die Weiterentwicklung der E-Partizopation bieten. 
+Von den Parlamenten und den Behörden ist nicht zu erwarten, dass sie neue digitale Beteiligungsformen anbieten. Die Menschen müssen die Weiterentwicklung der Demokratie selber an die Hand nehmen. 
 
-
+nextdemocracy versteht sich als Plattform, um über neue Beteiligungsformen zu diskutieren, sie zu entwickeln und auszuprobieren. 
