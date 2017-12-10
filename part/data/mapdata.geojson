@@ -1,0 +1,239 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.625926,46.52191 ]
+    },
+    "properties": {
+    "ID":2,
+    "Trägerschaft":"Stadt Lausanne",
+    "Informationen":"",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"Metamorphose, un projet phare pour le developpement de Lausanne",
+    "Thema":"Quartier-, Stadtentwicklung",
+    "Beschreibung":"Metamorphose est un des éléments forts du développement de Lausanne. Le projet dotera la ville d’équipements sportifs modernes, de deux quartiers écologiques et de transports publics de qualité. Le point sur le programme.",
+    "Website":"http://www.lausanne.ch/de/lausanne-en-bref/lausanne-demain/projet-metamorphose.html",
+    "Format":"gemischt",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"26.10.2006",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.376717,47.424482 ]
+    },
+    "properties": {
+    "ID":3,
+    "Trägerschaft":"Verein Vimentis",
+    "Informationen":"",
+    "Ebene":"Bund",
+    "Projekttitel":"Vimentis",
+    "Thema":"Politik allgemein",
+    "Beschreibung":"Seit 2003 veröffentlicht Vimentis einfache, neutrale Texte zu Abstimmungen und anderen wichtigen politischen Themen. Zudem führen wir jedes Jahr die grösste neutrale politische Online-Umfrage durch und veröffentlichen Blogs von führenden nationalen Parlamentarierinnen und Parlamentariern.",
+    "Website":"http://www.vimentis.ch/",
+    "Format":"online",
+    "Beteiligte":"ehrenamtliche Studenten",
+    "Prozessdesign":"n.a.",
+    "Partizipationsstufe":"",
+    "Beginn":"",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.544442,47.371612 ]
+    },
+    "properties": {
+    "ID":7,
+    "Trägerschaft":"Stadt Zürich",
+    "Informationen":"https://www.stadt-zuerich.ch/content/portal/de/index/footer/impressum.html",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"Züri wie neu",
+    "Thema":"Meldung, Reklamation etc.",
+    "Beschreibung":"Züri wie neu ist eine Online-Plattform, über die die Einwohnerinnen und\nEinwohner der Stadt Zürich auf Mängel und Schäden der städtischen Infrastruktur\nhinweisen können. Züri wie neu wird von der Stadtverwaltung moderiert und\ntransparent geführt. Die Meldungen werden innerhalb von einem Arbeitstag den zuständigen Fachstellen\nzugewiesen und innert fünf Arbeitstagen abschliessend beantwortet. Fällt eine\nMeldung nicht in den Zuständigkeitsbereich der Stadtverwaltung, wird die\nMeldung anonymisiert der zuständigen dritten Stelle per E-Mail zugestellt",
+    "Website":"www.zueriwieneu.ch",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"16.04.2013",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.375577,47.425369 ]
+    },
+    "properties": {
+    "ID":8,
+    "Trägerschaft":"Stadt St. Gallen",
+    "Informationen":"http://www.stadt.sg.ch/home/verwaltung-politik/verwaltung-dienste/auskunft-information/kommunikationsdienst.html",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"MySG",
+    "Thema":"Quartier-, Stadtentwicklung",
+    "Beschreibung":"Die Stadt St.Gallen ermöglicht und fördert die Mitsprache der Bevölkerung an der Planung und der Erfüllung der städtischen Aufgaben. Nehmen Sie am städtischen Leben teil. Treten Sie mit Menschen aus St.Gallen in Kontakt. Unter dem Titel MySG haben Sie die Möglichkeit, sich über städtische Themen zu informieren, zu diskutieren und von Ihren vielseitigen politischen Rechten Gebrauch zu machen.",
+    "Website":"",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"2010",
+    "Status":"abgeschlossen",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":"Im August 2013 wird die Plattform MySG in die Website der Stadt St. Gallen integriert.\nsiehe http://www.stadt.sg.ch/news/14/2013/08/mysg.html "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.446536,46.940429 ]
+    },
+    "properties": {
+    "ID":9,
+    "Trägerschaft":"Bundesarchiv",
+    "Informationen":"https://www.bar.admin.ch/bar/de/home/ueber-uns/kontakt.html",
+    "Ebene":"Bund",
+    "Projekttitel":"Open Government Data",
+    "Thema":"Behördendaten",
+    "Beschreibung":"Als Teil des Projektes Open Government Data Schweiz betreibt das Schweizerische Bundesarchiv zusammen mit seinen Projektpartnern ein zentrales Pilotportal für die Bereitstellung von offenen Behördendaten (Open Government Data, OGD). Das Pilotportal ist seit dem 16. September 2013 bis voraussichtlich Ende 2014 online. Die am Projekt beteiligten Organisationen stellen via das Pilotportal Teile ihrer bereits zugänglichen Daten zur Verfügung. Es finden sich unterschiedlichste Datensätze wie beispielsweise die Gemeindegrenzen der Schweiz, Bevölkerungsstatistiken, aktülle Wetterdaten, historische Dokumente oder ein Verzeichnis der Schweizer Literatur.",
+    "Website":"https://opendata.swiss/de/",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"01.09.2013",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.441588,46.946207 ]
+    },
+    "properties": {
+    "ID":10,
+    "Trägerschaft":"Bundesverwaltung",
+    "Informationen":"https://www.admin.ch/gov/de/start/bundesrecht/vernehmlassungen.html",
+    "Ebene":"Bund",
+    "Projekttitel":"Vernehmlassungen",
+    "Thema":"Politik allgemein",
+    "Beschreibung":"Jede Person und jede Organisation kann sich an einem Vernehmlassungsverfahren des Bundes beteiligen und eine Stellungnahme einreichen.",
+    "Website":"http://www.admin.ch/ch/d/gg/pc/pendent.html",
+    "Format":"offline",
+    "Beteiligte":"offen",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.435388,46.946234 ]
+    },
+    "properties": {
+    "ID":11,
+    "Trägerschaft":"Dachverband Schweizer Jugendparlamente",
+    "Informationen":"http://www.dsj.ch/projekte/easyvote/aktuell/",
+    "Ebene":"Bund",
+    "Projekttitel":"Easyvote",
+    "Thema":"Politik allgemein",
+    "Beschreibung":"Die easyvote Abstimmungshilfe informiert einfach, verständlich und politisch neutral über kantonale und nationale Abstimmungsvorlagen sowie Wahlen. Per Facebook, Twitter und Website sensibilisiert easyvote die Jugendlichen zur Teilnahme an Abstimmungen und Wahlen. Das Motto ist dabei immer: «von Jugendlichen für JugendlicheÂ.",
+    "Website":"http://www.easyvote.ch",
+    "Format":"gemischt",
+    "Beteiligte":"ehrenamtliche Jugendiche",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"",
+    "Status":"aktiv",
+    "Ergebnisse":"https://www.easyvote.ch/de/ueber-uns/studien/easyvote-studien/",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.375577,47.425369 ]
+    },
+    "properties": {
+    "ID":12,
+    "Trägerschaft":"St. Gallen",
+    "Informationen":"https://www.stadt.sg.ch/news/14/2015/08/stadtmelder.html",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"Stadtmelder",
+    "Thema":"Meldung, Reklamation etc.",
+    "Beschreibung":"Die Bevölkerung kann Mängel oder Lob, welche die städtische Infrastruktur betreffen, melden.",
+    "Website":"https://m.stadt.sg.ch/index.php?brandid=572&apid=4507051&jsr=1",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"18.08.2015",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.444672,47.181307 ]
+    },
+    "properties": {
+    "ID":14,
+    "Trägerschaft":"Grabs",
+    "Informationen":"www.grabs.ch",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"JugendMachtPolitik",
+    "Thema":"Jugendpolitk",
+    "Beschreibung":"Das Projekt „E-Partizipation für Kinder und Jugendliche“ hat zum Ziel, Kinder und Jugendliche für die Mitarbeit in der politischen Gemeindearbeit zu interessieren. ",
+    "Website":"http://www.jugendpolitikgrabs.ch",
+    "Format":"online",
+    "Beteiligte":"Kinder und Jugendliche",
+    "Prozessdesign":"mit Beteiligten",
+    "Partizipationsstufe":"",
+    "Beginn":"",
+    "Status":"aktiv",
+    "Ergebnisse":"http://www.esociety.net/?p=2698",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  }
+]
+}

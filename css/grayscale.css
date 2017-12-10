@@ -8,8 +8,8 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
-  color: white;
-  background-color: black; }
+  background: url("../img/intro-bg.jpg")
+  ;}
 
 html {
   width: 100%;
@@ -23,8 +23,7 @@ h5,
 h6 {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  margin: 0 0 35px;
-  letter-spacing: 1px;
+  margin: 14px 0 20px;
   text-transform: uppercase; }
 
 p {
@@ -48,10 +47,10 @@ a {
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  margin-bottom: 0;
+  margin-bottom: 10;
   text-transform: uppercase;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  background-color: black; }
+   }
   #mainNav .navbar-toggler {
     font-size: 14px;
     padding: 11px;
@@ -98,10 +97,9 @@ a {
   width: 100%;
   height: auto;
   padding: 200px 0;
+  margin:100px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
-  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -110,7 +108,7 @@ a {
     display: table-cell;
     vertical-align: middle; }
     .masthead .intro-body .brand-heading {
-      font-size: 50px; }
+      font-size: 40px; }
     .masthead .intro-body .intro-text {
       font-size: 18px; }
   @media (min-width: 768px) {
@@ -118,7 +116,7 @@ a {
       height: 100%;
       padding: 0; }
       .masthead .intro-body .brand-heading {
-        font-size: 100px; }
+        font-size: 60px; }
       .masthead .intro-body .intro-text {
         font-size: 22px; } }
 
@@ -141,8 +139,8 @@ a {
     background: rgba(255, 255, 255, 0.1); }
 
 .content-section {
-  padding-top: 150px;
-  padding-bottom: 150px; }
+  padding-top:120px;
+  padding-bottom: 50px; }
 
 .download-section {
   color: white;
@@ -159,8 +157,8 @@ a {
 
 @media (min-width: 992px) {
   .content-section {
-    padding-top: 200px;
-    padding-bottom: 200px; }
+    padding-top: 120px;
+    padding-bottom: 20px; }
   #map {
     height: 350px; } }
 
