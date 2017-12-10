@@ -140,7 +140,9 @@ a {
 
 .content-section {
   padding-top:120px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+  background-color: black;}
+
 
 .download-section {
   color: white;

@@ -8,7 +8,7 @@
        "coordinates":  [ 6.625926,46.52191 ]
     },
     "properties": {
-    "ID":2,
+    "ID":1,
     "Trägerschaft":"Stadt Lausanne",
     "Informationen":"",
     "Ebene":"Gemeinde",
@@ -34,11 +34,11 @@
        "coordinates":  [ 9.376717,47.424482 ]
     },
     "properties": {
-    "ID":3,
+    "ID":2,
     "Trägerschaft":"Verein Vimentis",
     "Informationen":"",
     "Ebene":"Bund",
-    "Projekttitel":"Vimentis",
+    "Projekttitel":"Abstimmungsinformationen",
     "Thema":"Politik allgemein",
     "Beschreibung":"Seit 2003 veröffentlicht Vimentis einfache, neutrale Texte zu Abstimmungen und anderen wichtigen politischen Themen. Zudem führen wir jedes Jahr die grösste neutrale politische Online-Umfrage durch und veröffentlichen Blogs von führenden nationalen Parlamentarierinnen und Parlamentariern.",
     "Website":"http://www.vimentis.ch/",
@@ -60,7 +60,7 @@
        "coordinates":  [ 8.544442,47.371612 ]
     },
     "properties": {
-    "ID":7,
+    "ID":3,
     "Trägerschaft":"Stadt Zürich",
     "Informationen":"https://www.stadt-zuerich.ch/content/portal/de/index/footer/impressum.html",
     "Ebene":"Gemeinde",
@@ -86,7 +86,7 @@
        "coordinates":  [ 9.375577,47.425369 ]
     },
     "properties": {
-    "ID":8,
+    "ID":4,
     "Trägerschaft":"Stadt St. Gallen",
     "Informationen":"http://www.stadt.sg.ch/home/verwaltung-politik/verwaltung-dienste/auskunft-information/kommunikationsdienst.html",
     "Ebene":"Gemeinde",
@@ -112,7 +112,7 @@
        "coordinates":  [ 7.446536,46.940429 ]
     },
     "properties": {
-    "ID":9,
+    "ID":5,
     "Trägerschaft":"Bundesarchiv",
     "Informationen":"https://www.bar.admin.ch/bar/de/home/ueber-uns/kontakt.html",
     "Ebene":"Bund",
@@ -138,7 +138,7 @@
        "coordinates":  [ 7.441588,46.946207 ]
     },
     "properties": {
-    "ID":10,
+    "ID":6,
     "Trägerschaft":"Bundesverwaltung",
     "Informationen":"https://www.admin.ch/gov/de/start/bundesrecht/vernehmlassungen.html",
     "Ebene":"Bund",
@@ -164,7 +164,7 @@
        "coordinates":  [ 7.435388,46.946234 ]
     },
     "properties": {
-    "ID":11,
+    "ID":7,
     "Trägerschaft":"Dachverband Schweizer Jugendparlamente",
     "Informationen":"http://www.dsj.ch/projekte/easyvote/aktuell/",
     "Ebene":"Bund",
@@ -190,11 +190,11 @@
        "coordinates":  [ 9.375577,47.425369 ]
     },
     "properties": {
-    "ID":12,
-    "Trägerschaft":"St. Gallen",
+    "ID":8,
+    "Trägerschaft":"St.Gallen",
     "Informationen":"https://www.stadt.sg.ch/news/14/2015/08/stadtmelder.html",
     "Ebene":"Gemeinde",
-    "Projekttitel":"Stadtmelder",
+    "Projekttitel":"Stadtmelder St.Gallen",
     "Thema":"Meldung, Reklamation etc.",
     "Beschreibung":"Die Bevölkerung kann Mängel oder Lob, welche die städtische Infrastruktur betreffen, melden.",
     "Website":"https://m.stadt.sg.ch/index.php?brandid=572&apid=4507051&jsr=1",
@@ -213,10 +213,88 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 9.252451,47.414352 ]
+    },
+    "properties": {
+    "ID":9,
+    "Trägerschaft":"Gossau",
+    "Informationen":"https://m.stadtgossau.ch/index.php?apid=4498322&jsr=1",
+    "Ebene":"Gemeinde",
+    "Projekttitel":"Stadtmelder Gossau",
+    "Thema":"Meldung, Reklamation etc.",
+    "Beschreibung":"Die Bevölkerung kann Mängel oder Lob, welche die städtische Infrastruktur betreffen, melden.",
+    "Website":"https://m.stadtgossau.ch/index.php?apid=4498322&jsr=1",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"von der Trägerschaft vorgegeben",
+    "Partizipationsstufe":"",
+    "Beginn":"n.a.",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.523782,47.395157 ]
+    },
+    "properties": {
+    "ID":10,
+    "Trägerschaft":"privat",
+    "Informationen":"https://wecollect.ch/",
+    "Ebene":"national",
+    "Projekttitel":"wecollect",
+    "Thema":"Initiative, Referendum: Unterschriften sammeln",
+    "Beschreibung":"",
+    "Website":"https://wecollect.ch",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"",
+    "Partizipationsstufe":"",
+    "Beginn":"n.a.",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.527268,47.379898 ]
+    },
+    "properties": {
+    "ID":11,
+    "Trägerschaft":"GmbH",
+    "Informationen":"https://wemakeit.com/",
+    "Ebene":"national",
+    "Projekttitel":"wemakeit",
+    "Thema":"Crowdsourcing-Plattform ",
+    "Beschreibung":"",
+    "Website":"https://wemakeit.com/",
+    "Format":"online",
+    "Beteiligte":"Bevölkerung",
+    "Prozessdesign":"",
+    "Partizipationsstufe":"",
+    "Beginn":"n.a.",
+    "Status":"aktiv",
+    "Ergebnisse":"",
+    "Evaluation":"",
+    "Bemerkungen":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 9.444672,47.181307 ]
     },
     "properties": {
-    "ID":14,
+    "ID":12,
     "Trägerschaft":"Grabs",
     "Informationen":"www.grabs.ch",
     "Ebene":"Gemeinde",

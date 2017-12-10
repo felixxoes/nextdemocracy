@@ -52,6 +52,10 @@ html {
     font-weight: 350;
   }
 
+  h2.contact {
+    color:white;
+  }
+
 .teaser {
   font-family: times, serif;
   font-weight: 300;
