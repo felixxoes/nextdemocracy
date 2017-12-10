@@ -1,3 +1,31 @@
+html {
+  font-size:1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  h2 {
+    font-size: 1.2rem;
+  }
+}
+
 #map_container {
 
      position: relative;
@@ -6,6 +34,7 @@
    	top: 0;padding-top: 50%;
 
   }
+
 
 #map {
 	position: absolute;
@@ -16,18 +45,18 @@
 
   h2.index
     {
-    font-family: Helvetica Neue; sans-serif;
+    font-family: times; serif;
     text-transform: lowercase;
     text-align: left;
-    font-weight: 330;
-    font-size: 1.3em;
+    font-size:1.8rem;
+    font-weight: 350;
   }
 
 .teaser {
-  font-family: Helvetica Neue, sans-serif;
+  font-family: times, serif;
   font-weight: 300;
   font-size: 1.3em;
   color:black;
-  background-color: rgba(255,255,255, 0.8);
+  background-color: rgba(255,255,200, 0.5);
   border-radius: 10px;
 }
